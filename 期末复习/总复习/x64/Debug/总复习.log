@@ -1,0 +1,6 @@
+﻿  CPU.cpp
+D:\c++\总复习\CPU.h(10): warning C4091: “static ”: 没有声明变量时忽略“CPU::CPU_rank”的左侧
+  main.cpp
+D:\c++\总复习\CPU.h(10): warning C4091: “static ”: 没有声明变量时忽略“CPU::CPU_rank”的左侧
+  正在生成代码...
+  总复习.vcxproj -> D:\c++\总复习\x64\Debug\总复习.exe

@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\c++\5-1\5-1\源.cpp(50,6): error C2084: 函数“void BT_PreOrder(Tnode *)”已有主体
+D:\c++\5-1\5-1\源.cpp(43): message : 参见“BT_PreOrder”的前一个定义
+D:\c++\5-1\5-1\源.cpp(52,5): error C2065: “BT_PreOrder”: 未声明的标识符
+D:\c++\5-1\5-1\源.cpp(54,5): error C2065: “BT_PreOrder”: 未声明的标识符

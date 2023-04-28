@@ -1,0 +1,6 @@
+﻿  源.cpp
+源.obj : error LNK2019: 无法解析的外部符号 "public: int __thiscall Date::day(void)const " (?day@Date@@QBEHXZ)，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 "public: int __thiscall Date::month(void)const " (?month@Date@@QBEHXZ)，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 "public: int __thiscall Date::year(void)const " (?year@Date@@QBEHXZ)，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Date::string_rep(void)const " (?string_rep@Date@@QBE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)，函数 _main 中引用了该符号
+D:\c++\8-2\Debug\8-2.exe : fatal error LNK1120: 4 个无法解析的外部命令
